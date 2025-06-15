@@ -160,6 +160,14 @@ Com todas as dependências instaladas e as variáveis de ambiente configuradas, 
 
 Agora você está pronto para interagir com o "Gerenciador de Produtos Cloud-Native"!
 
+## 📸 Screenshots
+
+### Tela de Cadastro de Produtos
+![Tela de Cadastro](images/cadastro.png)
+
+### Tela de Listagem de Produtos
+![Tela de Listagem](images/listagem.png)
+
 ## ✨ Insights e Aprendizados
 
 Durante o desenvolvimento deste projeto, pude aprofundar meus conhecimentos e obter os seguintes insights:
@@ -183,3 +191,14 @@ Algumas funcionalidades e aprimoramentos que podem ser implementados:
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🙏 Agradecimentos e Links Úteis
+
+* Agradecimento à Digital Innovation One (DIO) pelo excelente conteúdo do curso "Microsoft Azure Cloud Native".
+* [Documentação oficial do Azure Blob Storage](https://learn.microsoft.com/pt-br/azure/storage/blobs/storage-blobs-overview)
+* [Documentação oficial do Azure SQL Database](https://learn.microsoft.com/pt-br/azure/azure-sql/database/sql-database-paas-overview)
+* [Documentação oficial do Streamlit](https://docs.streamlit.io/)
